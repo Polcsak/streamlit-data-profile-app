@@ -6,3 +6,4 @@ streamlit
 ydata-profiling
 openpyxl
 xlrd
+setuptools
